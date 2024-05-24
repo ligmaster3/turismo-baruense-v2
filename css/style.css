@@ -16,14 +16,11 @@ body {
 
 header .navbar {
     z-index: 1000;
-    /* Color predeterminado */
     background-color: transparent;
-    /* Agrega una transición suave */
     transition: background-color 0.3s ease;
 }
 
 .sticky-nav {
-    /* Cambia el color del menú */
     background-color: black !important;
 }
 
