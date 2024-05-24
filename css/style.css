@@ -243,3 +243,6 @@ header .navbar {
     color: #666;
     margin-bottom: 20px;
 }
+footer h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
