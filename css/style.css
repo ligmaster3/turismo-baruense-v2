@@ -82,8 +82,9 @@ header .navbar {
 
 .pv-1 {
     background-color: green;
-    padding: 10rem;
+    padding: 1rem;
 }
+
 
 .bg-green {
     color: green;
@@ -114,6 +115,7 @@ header .navbar {
 .img-aweson-g {
     margin: 1rem;
     width: 100%;
+    border-radius: 30px;
     height: auto;
     display: block;
 }
@@ -174,7 +176,12 @@ header .navbar {
     .container {
         flex-direction: row;
     }
-}
+    .img-aweson-g {
+        width: 300px;
+    }
+    
+    
+    
 
 .image-section {
     position: relative;
@@ -231,6 +238,14 @@ header .navbar {
     .text-section {
         padding: 10px 20px;
     }
+    .card-ubi iframe {
+        width: 300px;
+        height: 150px;
+      }
+      
+    }
+    
+      
 }
 
 
