@@ -124,9 +124,9 @@ header .navbar {
 
 .galeria {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(17.25rem, 100%), 1fr));
-    grid-gap: 1rem;
-    padding: 12px;
+    grid-template-columns: repeat(auto-fit, minmax(min(12.25rem, 100%), 1fr));
+    grid-gap: 6rem;
+    padding: 72px;
 }
 
 .gallery-item {
@@ -239,7 +239,7 @@ header .navbar {
         width: 300px;
         height: 150px;
       }
-      
+    
     }
     
       
